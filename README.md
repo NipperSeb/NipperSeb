@@ -1,5 +1,5 @@
 Hi, I'm Sébastien Pincepoche.
-I love learning to code with React and Node js.
+I love learning to code.
 
 For 5 years, I have been learning different languages. Self-taught and passionate, I take pleasure in creating different apps.
 
